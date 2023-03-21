@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/kkdai/youtube/v2"
-	ytdl "github.com/kkdai/youtube/v2/downloader"
+	"github.com/garnermccloud/youtube"
+	ytdl "github.com/garnermccloud/youtube/downloader"
 	"github.com/spf13/pflag"
 	"golang.org/x/net/http/httpproxy"
 )
